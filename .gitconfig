@@ -1,0 +1,11 @@
+[user]
+    name = Roberto Fuentes
+    email = 214211197+rafg85@users.noreply.github.com
+[credential]
+    helper = store
+[core]
+    editor = vim
+[init]
+    defaultBranch = main
+[url "git@github.com:"]
+	insteadOf = https://github.com/
