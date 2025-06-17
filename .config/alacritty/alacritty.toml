@@ -1,0 +1,14 @@
+[terminal]
+shell = { program = "zsh", args = [] }
+[font]
+normal = { family = "Hack Nerd Font", style = "Regular" }
+bold = { family = "Hack Nerd Font", style = "Bold" }
+italic = { family = "Hack Nerd Font", style = "Italic" }
+bold_italic = { family = "Hack Nerd Font", style = "Bold Italic" }
+size = 11
+[window]
+dimensions = { columns = 120, lines = 40 }
+position = { x = 300, y = 150 }
+title = "Terminal - Alacritty"
+[selection]
+save_to_clipboard = true
