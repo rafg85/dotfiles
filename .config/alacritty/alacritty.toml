@@ -9,6 +9,6 @@ size = 11
 [window]
 dimensions = { columns = 120, lines = 40 }
 position = { x = 300, y = 150 }
-title = "Terminal - Alacritty"
+title = "Terminal by Alacritty"
 [selection]
 save_to_clipboard = true
