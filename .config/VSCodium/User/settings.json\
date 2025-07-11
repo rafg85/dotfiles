@@ -1,0 +1,10 @@
+{
+    "workbench.startupEditor": "none",
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "quarkus.tools.alwaysShowWelcomePage": false,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.formatOnSave": true,
+    "java.saveActions.organizeImports": true
+}
